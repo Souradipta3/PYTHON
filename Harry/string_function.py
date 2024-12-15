@@ -1,0 +1,8 @@
+mantra=("Hare Krishna Hare Krishna,\nKrishna Krishna Hara Hare,\nHare Rama Hare Rama,\nRama Rama Hare Hare.")
+print(mantra)
+print(len(mantra))
+print(mantra.endswith("Hare"))
+print(mantra.count("s"))
+print(mantra.capitalize())
+print(mantra.find("Krishna"))
+print(mantra.replace("Krishna","Radha"))
